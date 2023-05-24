@@ -2,8 +2,8 @@
 
 Recull dels exercicis entregats(20%) de l'assignatura optativa de CCQ del GEI.
 
-Exercici 1: Cal tenir en compte que quan el nombre complex és z=a-bi, estem al 4rt quadrant i per tant, l'angle que obtenim és el calculat però amb signe negatiu.
-Exercici 3: La incertesa no seria 2.5! Caldria fer el següent:
+Exercici 1: Cal tenir en compte que quan el nombre complex és z=a-bi, estem al 4rt quadrant i per tant, l'angle que obtenim és el calculat però amb signe negatiu. </br>
+Exercici 3: La incertesa no seria 2.5! Caldria fer el següent: </br>
 
 σ = √((Σ(x - μ)^2) / N) </br>
 on: </br>
